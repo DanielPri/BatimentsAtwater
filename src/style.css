@@ -1,0 +1,27 @@
+.logo{
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.orange{
+    color:#DA4510;
+}
+
+.jumbotron{
+    text-align: center;
+}
+
+#orangeButton{
+    text-transform: uppercase;
+    font-weight: 700;
+    background: #DA4510;
+    border: #DA4510;
+}
+
+.title{
+    text-transform: uppercase;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
