@@ -1,0 +1,60 @@
+body{
+    background: #241E1E;
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+}
+
+.paragraphs{
+    background: white;
+}
+
+.logo{
+    text-transform: uppercase;
+    padding: 0;
+    font-family: 'Nunito';
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: 200%;
+}
+
+.orange{
+    color:#F0421F;
+    font-weight: normal;
+  
+}
+
+.jumbotron{
+    text-align: center;
+    margin-bottom: 0;
+}
+
+
+
+.title{
+    text-transform: uppercase;
+}
+
+.footer{
+    background: #241E1E;
+    height: 5em;
+}
+
+#orangeButton{
+    text-transform: uppercase;
+    font-weight: 700;
+    background: #F0421F;
+    border: #F0421F;
+}
+
+#topTitle{
+    height: 35px;
+}
+
+#botTitle{
+    letter-spacing: 2px;
+    font-size: 70%;
+}
