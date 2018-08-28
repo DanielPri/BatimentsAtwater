@@ -6,19 +6,12 @@ p{
     font-family: 'Raleway', sans-serif;
 }
 
+a{
+    margin-right: 0;
+}
+
 .paragraphs{
     background: white;
-}
-
-.logo{
-    text-transform: uppercase;
-    padding: 0;
-    font-family: 'Nunito';
-    font-weight: bold;
-}
-
-.navbar-brand{
-    font-size: 200%;
 }
 
 .orange{
@@ -32,7 +25,10 @@ p{
     margin-bottom: 0;
 }
 
-
+.icon{
+  height: 45px;
+  margin-right: 5px;
+}
 
 .title{
     text-transform: uppercase;
@@ -50,11 +46,20 @@ p{
     border: #F0421F;
 }
 
+#name{
+    text-transform: uppercase;
+    font-family: 'Nunito';
+    font-weight: bold;
+}
+
+
+
 #topTitle{
     height: 35px;
+    font-size: 170%;
 }
 
 #botTitle{
     letter-spacing: 2px;
-    font-size: 70%;
+    font-size: 100%;
 }
