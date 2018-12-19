@@ -35,8 +35,18 @@ a{
 }
 
 .footer{
+    color: white;
     background: #241E1E;
     height: 5em;
+}
+
+.rbq{
+    display: inline-block;
+}
+
+.contact{
+    float: right;
+    display: inline-block;
 }
 
 #orangeButton{
