@@ -14,6 +14,10 @@ a{
     background: white;
 }
 
+.navbar-nav{
+   font-size: 1.5rem;
+}
+
 .orange{
     color:#F0421F;
     font-weight: normal;
