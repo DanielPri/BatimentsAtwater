@@ -10,6 +10,10 @@ a{
     margin-right: 0;
 }
 
+.nav-item{
+    
+    padding-left:20px;
+}
 .paragraphs{
     background: white;
 }
@@ -19,13 +23,14 @@ a{
 }
 
 .orange{
-    color:#F0421F;
+    color:#ed714b;
     font-weight: normal;
   
 }
 
 .services{
-    padding-top: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .white{
@@ -43,10 +48,6 @@ a{
   margin-right: 5px;
 }
 
-.title{
-    text-transform: uppercase;
-}
-
 .gallery{
     padding: 10px;
 }
@@ -57,16 +58,24 @@ a{
 
 .listy{
     text-transform: uppercase;
-    font-size: 1.5rem;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-collapse: separate; 
+    border-radius: 25px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .footer{
+    margin-top:20px;
     color: white;
     background: #241E1E;
     height: 5em;
 }
 
 .rbq{
+    margin-top:20px;
     display: inline-block;
 }
 
